@@ -2,3 +2,5 @@
 Sample repo for DAT 4500
 
 Add text in RStudio
+
+Add text in GitHub
